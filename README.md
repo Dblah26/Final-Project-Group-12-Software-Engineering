@@ -3,3 +3,4 @@ This repository holds the final project for Group 12 within Software Engineering
 To see the entirety of this project make sure you view each branch and check how the app has been made and what proccesses were followed to achieve the app we have made.
 Within Graphs and Tables lies all of the Pictured examples of flowcharts and process followed as well as pictures of the app in use as well.
 Within written work you can find all of the written breakdowns and plans this group has gone through as well as written assignments used for class.
+Within App Code you can find the actual apk and aab files used to have the app run. These are followed by the zip folder containing the essnetials for app submissions.
